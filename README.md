@@ -4,7 +4,7 @@ Instead of just bookmarking content, users can capture *why* a link matters, mak
 
      “Remember why you saved something, not just what you saved.”
 
-🚀 Features
+## 🚀 Features
 🔗 Smart Link Saving
 * Save links with automatic metadata:
   * Title
