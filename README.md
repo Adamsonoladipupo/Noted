@@ -1,4 +1,4 @@
-Context-Aware Note Taking App
+## **Note Taking App**
 This is a note-taking application designed to help users save links along with personal context. 
 Instead of just bookmarking content, users can capture *why* a link matters, making it easier to recall ideas, insights, and intentions later.
 
